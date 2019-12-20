@@ -7,9 +7,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Gatsby Contentful Blog`,
+    author: `Viar M Suganda`,
+    description: `Learn how to create blog with Gatsby and Contentful`,
     social: [
       {
         name: `twitter`,
